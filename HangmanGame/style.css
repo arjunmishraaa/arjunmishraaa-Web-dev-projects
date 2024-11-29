@@ -11,7 +11,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #5E63BA;
+    background: #e29d1d;
 }
 .container {
     display: flex;
@@ -83,7 +83,7 @@ body {
     font-weight: 600;
     border-radius: 4px;
     text-transform: uppercase;
-    background: #5E63BA;
+    background: #e29d1d;
 }
 .keyboard button {
     padding: 7px;
@@ -94,7 +94,7 @@ body {
     opacity: 0.6;
 }
 :where(.game-modal, .keyboard) button:hover {
-    background: #8286c9;
+    background: #795615;
 }
 .game-modal {
     position: fixed;
